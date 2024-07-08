@@ -13,6 +13,7 @@
 .git
 .gitignore
 main.sh
+README.md
 
 node_modules
 !include:.gitignore
